@@ -1,3 +1,2 @@
-# Second-day-Work
+Kodlama.io Ödevler
 
-Kodlama io ikinci gün ödevi
