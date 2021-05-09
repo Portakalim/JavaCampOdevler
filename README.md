@@ -11,6 +11,8 @@
   İş sınıfı olarak tanımladığımızı düşündüğünüz bir class oluşturunuz. En az iki metot yazınız.
 
 
+
+
 -Third Day Work
 
   Kodlama.io projesini yazdığınızı düşünelim.
