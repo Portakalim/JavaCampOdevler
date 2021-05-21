@@ -26,7 +26,17 @@
   Github adresinizi paylaşınız.
 
 ---------------------------------------------------------------------------------------------------------
+-fourthDaySecondHomework
+Aşağıda sektör için çok değerli bir örneği yapan yayını bırakıyorum.
 
+https://youtu.be/6VYDltTF2b4
+
+Bu yayın C# ile yapıldı.
+
+Aynı yapıyı Java için kurunuz.
+
+
+---------------------------------------------------------------------------------------------------------
 -fourthDayThirdHomewrok
 
 Bir oyun yazmak istiyorsunuz. Bu yazılım için backend kodlarını JAVA ile geliştirmeyi planlıyoruz. Yeni üye, satış ve kampanya yönetimi yapılması isteniyor. Nesnelere ait özellikleri istediğiniz gibi verebilirsiniz. Burada amaç yazdığınız kodun kalitesidir. Ödevde gereksinimleri tam anlamadığınız durum benim için önemli değil, kendinize göre mantık geliştirebilirsiniz. Dediğim gibi kod kalitesiyle ilgileniyoruz şu an :)
