@@ -45,38 +45,48 @@ Bir oyun yazmak istiyorsunuz. Bu yazılım için backend kodlarını JAVA ile ge
 
 Gereksinimler
 
-1.     Oyuncuların sisteme kayıt olabileceği, bilgilerini güncelleyebileceği, kayıtlarını silebileceği bir ortamı simule ediniz. Müşteri bilgilerinin doğruluğunu e-devlet sistemlerini kullanarak doğrulama yapmak istiyoruz. (E-devlet sistemlerinde doğrulama TcNo, Ad, Soyad, DoğumYılı bilgileriyle yapılır. Bunu yapacak servisi simule etmeniz yeterlidir.) (Loglama gibi)
+1.Oyuncuların sisteme kayıt olabileceği, bilgilerini güncelleyebileceği, kayıtlarını silebileceği bir ortamı simule ediniz. Müşteri bilgilerinin doğruluğunu e-devlet sistemlerini kullanarak doğrulama yapmak istiyoruz. (E-devlet sistemlerinde doğrulama TcNo, Ad, Soyad, DoğumYılı bilgileriyle yapılır. Bunu yapacak servisi simule etmeniz yeterlidir.) (Loglama gibi)
 
-2.     Oyun satışı yapılabilecek satış ortamını simule ediniz.( Yapılan satışlar oyuncu ile ilişkilendirilmelidir. Oyuncunun parametre olarak metotta olmasını kastediyorum.)
+2.Oyun satışı yapılabilecek satış ortamını simule ediniz.( Yapılan satışlar oyuncu ile ilişkilendirilmelidir. Oyuncunun parametre olarak metotta olmasını kastediyorum.)
 
-3.     Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule ediniz.
+3.Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule ediniz.
 
-4.     Satışlarda kampanya entegrasyonunu simule ediniz.
+4.Satışlarda kampanya entegrasyonunu simule ediniz.
 
-5.     Ödevinizi Github’a yükleyiniz. Github linkinizi paylaşınız.
+5.Ödevinizi Github’a yükleyiniz. Github linkinizi paylaşınız.
 
 6. Diğer arkadaşlarınınız Github kodlarını inceleyiniz. Ona yıldız vermeyi unutmayınız :)
 
 ---------------------------------------------------------------------------------------------------------
-fifthDayHomework
+-fifthDayHomework
 
-Aşağıda bir e-ticaret sisteminde sisteme kayıt ve sisteme giriş için gerekli gereksinim ve kabul kriterlerini yazdım. Bu sisteme ait Java backend yazmak istiyoruz.
+  Aşağıda bir e-ticaret sisteminde sisteme kayıt ve sisteme giriş için gerekli gereksinim ve kabul kriterlerini yazdım. Bu sisteme ait Java backend yazmak istiyoruz.
 
-Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
+  Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
 
-Sisteme temel kullanıcı bilgileri , e-posta ve parolayla üye olunabilmelidir. Temel kullanıcı bilgileri : ad, soyad, e-posta, parola. Temel bilgilerin tamamı zorunludur.
-Parola en az 6 karakterden oluşmalıdır.
-E-posta alanı e-posta formatında olmalıdır. (Regex ile yapınız. Araştırma konusu)
-E-Posta daha önce kullanılmamış olmalıdır.
-Ad ve soyad en az iki karakterden oluşmalıdır.
-Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmelidir. (Simulasyon)
-Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)
-Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
-Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)
+  Sisteme temel kullanıcı bilgileri , e-posta ve parolayla üye olunabilmelidir. Temel kullanıcı bilgileri : ad, soyad, e-posta, parola. Temel bilgilerin tamamı zorunludur.
+  
+  Parola en az 6 karakterden oluşmalıdır.
 
-İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak şekilde yapılandırınız.)
-Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
-Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.
+  E-posta alanı e-posta formatında olmalıdır. (Regex ile yapınız. Araştırma konusu)
+  
+  E-Posta daha önce kullanılmamış olmalıdır.
+  
+  Ad ve soyad en az iki karakterden oluşmalıdır.,
+  
+  Üyelik sonucu kullanıcıya doğrulama e-postası gönderilmelidir. (Simulasyon)
+  
+  Doğrulama linki tıklandığında üyelik tamamlanmalıdır. (Simulasyon)
+  
+  Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+  
+  Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)
+
+  İlerleyen zamanlarda başka yetkilendirme servisleri de kullanılabilir. (Sistemi dış servis entegrasyonu olacak    şekilde yapılandırınız.)
+    
+  Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
+    
+  Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.
 
 E-posta ve parola zorunludur
 Hatalı veya başarılı durumda kullanıcı bilgilendirilmelidir.
